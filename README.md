@@ -78,7 +78,8 @@ Proyek ini dikerjakan dengan pembagian tugas spesifik untuk memastikan setiap as
 | :--- | :--- | :--- |
 | **Kartini Lovian Simbolon** | 122450003 | **Business Analyst & Documentation**<br>• Analisis kebutuhan bisnis & KPI.<br>• Penyusunan laporan akhir (Requirement). |
 | **Nasywa Nur Afifah** | 122450125 | **Data Engineer Support**<br>• Perancangan kode SQL dasar (DDL).<br>• Penyusunan laporan teknis database. |
-| **Erma Daniar Safitri** | 122450061 | **Technical Writer & Presenter**<br>• Penyusunan laporan komprehensif.<br>• Pembuatan materi presentasi (PPT) & visualisasi alur. |
-| **Ginda Fajar Riadi Marpaung** | 122450103 | **Cloud Architect & Lead Developer**<br>• Konfigurasi Azure VM & SQL Server.<br>• Implementasi kode ETL & Indexing.<br>• Pengembangan Dashboard Power BI. |
+| **Erma Daniar Safitri** | 123450061 | **Technical Writer & Presenter**<br>• Penyusunan laporan komprehensif.<br>• Pembuatan materi presentasi (PPT) & visualisasi alur. |
+| **Ginda Fajar Riadi Marpaung** | 123450103 | **Cloud Architect & Lead Developer**<br>• Konfigurasi Azure VM & SQL Server.<br>• Implementasi kode ETL & Indexing.<br>• Pengembangan Dashboard Power BI. |
 
 ---
+
