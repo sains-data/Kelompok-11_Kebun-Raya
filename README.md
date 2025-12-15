@@ -48,7 +48,7 @@ Sistem terdiri dari dua Tabel Fakta utama yang terhubung oleh *Conformed Dimensi
 Berikut adalah hasil visualisasi data yang telah diimplementasikan menggunakan Power BI untuk menjawab kebutuhan analitik manajemen:
 
 ### 1. Dashboard Operasional & Konservasi
-![Dashboard Preview](dashboard-kebunraya_page-0001.jpg)
+![Dashboard Preview](dashboard-kebunraya.pdf)
 *Gambar: Tampilan penuh dashboard yang mencakup analisis pengunjung dan tanaman.*
 
 ### Fitur Analitik:
@@ -82,4 +82,5 @@ Proyek ini dikerjakan dengan pembagian tugas spesifik untuk memastikan setiap as
 | **Ginda Fajar Riadi Marpaung** | 123450103 | **Cloud Architect & Lead Developer**<br>• Konfigurasi Azure VM & SQL Server.<br>• Implementasi kode ETL & Indexing.<br>• Pengembangan Dashboard Power BI. |
 
 ---
+
 
